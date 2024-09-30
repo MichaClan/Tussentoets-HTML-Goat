@@ -1,0 +1,46 @@
+*{  /*ieder tekst verandert lettertype*/
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1{   /*grote titels krijgen kleur en worden dikker*/
+    color: maroon; 
+    font-weight: bolder;
+}
+
+h2{
+    color: maroon; 
+    font-weight: bolder;
+}
+
+h3{
+    color: maroon; 
+    font-weight: bolder;
+}
+
+h4{  
+    color: maroon; 
+    font-weight: bolder;
+}
+
+
+article{
+    border: 2px solid black; /*Solid black? hoe werkt dat*/
+}
+
+.docent1 {
+    color: blue; 
+}
+
+.docent2 {
+    color: red;
+}
+
+.docent3 {
+    color: chartreuse;
+}
+
+.contact-list {
+    background-color: darkgreen; 
+    color: white; 
+    padding: 10px; 
+}
